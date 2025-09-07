@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\xampp\\htdocs\\eastpacificflow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eastpacificflow\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eastpacificflow\\starter-page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:starter-page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -17,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eastpacificflow\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eastpacificflow\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\eastpacificflow\\assets\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "starter-page.html",
               "DocumentMoniker": "C:\\xampp\\htdocs\\eastpacificflow\\starter-page.html",
               "RelativeDocumentMoniker": "starter-page.html",
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\xampp\\htdocs\\eastpacificflow\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -55,11 +55,12 @@
               "RelativeToolTip": ".gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-05T23:49:55.594Z"
+              "WhenOpened": "2025-09-05T23:49:55.594Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Readme.txt",
               "DocumentMoniker": "C:\\xampp\\htdocs\\eastpacificflow\\Readme.txt",
               "RelativeDocumentMoniker": "Readme.txt",
@@ -67,7 +68,8 @@
               "RelativeToolTip": "Readme.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-09-05T23:49:44.596Z"
+              "WhenOpened": "2025-09-05T23:49:44.596Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -79,17 +81,18 @@
               "RelativeToolTip": "assets\\css\\main.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-05T23:16:27.494Z"
+              "WhenOpened": "2025-09-05T23:16:27.494Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "index.html",
               "DocumentMoniker": "C:\\xampp\\htdocs\\eastpacificflow\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\xampp\\htdocs\\eastpacificflow\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAADsAAAAAAAAAAAAcwEQAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAAAAwBAACCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-09-05T21:40:27.43Z",
               "EditorCaption": ""
