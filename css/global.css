@@ -452,13 +452,14 @@ overflow-y:scroll;
 border-top:1px solid #245b9d;
 margin-top:15px;
  }
+
 #header .nav-link{
 font-size:28px;
 border-bottom:1px solid #245b9d;
  }
 .navbar-light .navbar-toggler{
 box-shadow:none!important;
-background:#fff;
+background:none;
 border:none;
 border-radius:0;
  }
@@ -563,13 +564,13 @@ margin-bottom:8px;
     }
     .shadow_box {
         box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 10%);
-        height: 28vh;
+        height: 5vh;
     }
  }
 
 
 @media (min-width:576px) and (max-width:767px) {
-
+    
  }
 @media (min-width:768px) and (max-width:991px) {
 .navbar-expand-md {
